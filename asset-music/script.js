@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        img : 'images/album1.jpg',
+        name : 'Not Like Us',
+        artist : 'Kendrick Lamar',
+        music : 'music/lagu1.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/album2.jpg',
+        name : 'Humble',
+        artist : 'Kendrick Lamar',
+        music : 'music/lagu2.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/album3.jpg',
+        name : 'Meet The Grahams',
+        artist : 'Kendrick Lamar',
+        music : 'music/lagu3.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/album4.jpg',
+        name : 'Not like us (Drake Diss)',
+        artist : 'Kendrick Lamar',
+        music : 'music/lagu4.mp3'
     }
 ];
 
