@@ -22,16 +22,46 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'images/humble.jpeg',
+        name : 'Humble',
+        artist : 'Kendrick Lamar',
+        music : 'music/lagu2.mp3'
+    },
+    {
+        img : 'images/dna.jpeg',
+        name : 'DNA',
+        artist : 'Kendrick Lamar',
+        music : 'music/dna.mpeg'
+    },
+    {
+        img : 'images/element.jpeg',
+        name : 'Element',
+        artist : 'Kendrick Lamar',
+        music : 'music/element.mpeg'
+    },
+    {
+        img : 'images/love.jpeg',
+        name : 'Love',
+        artist : 'Kendrick Lamar',
+        music : 'music/love.mpeg'
+    },
+    {
+        img : 'images/loyality.jpeg',
+        name : 'Loyality',
+        artist : 'Kendrick Lamar',
+        music : 'music/loyality.mpeg'
+    },
+    {
+        img : 'images/pride.jpeg',
+        name : 'Pride',
+        artist : 'Kendrick Lamar',
+        music : 'music/pride.mpeg'
+    },
+    {
         img : 'images/album1.jpg',
         name : 'Not Like Us',
         artist : 'Kendrick Lamar',
         music : 'music/lagu1.mp3'
-    },
-    {
-        img : 'images/album2.jpg',
-        name : 'Humble',
-        artist : 'Kendrick Lamar',
-        music : 'music/lagu2.mp3'
     },
     {
         img : 'images/album3.jpg',
